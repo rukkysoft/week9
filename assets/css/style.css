@@ -1,0 +1,27 @@
+.my-header{
+  background-color: blue;
+  border-bottom: 5px solid black;
+}
+
+.my-header h1{
+  color: red;
+}
+
+.my-header img {
+  width: 100px;
+} 
+.main section .my-image {
+  width: 500px;
+  height: 500px;
+  border-radius: 100%;
+}
+.nav section .my-image {
+  width: 500px;
+  height: 500px;
+  border-radius: 100%;
+}
+.nav section .my-image {
+  width: 500px;
+  height: 500px;
+  border-radius: 100%; 
+}
